@@ -1,6 +1,6 @@
 # chatbot-fds
 This code is a practical implementation of a Chatbot created using the Chatterbot module.  
-Created by: Afraa Noureen and Ravali Attivilli
+**Created by: Afraa Noureen and Ravali Attivilli**
 
 ## **Pre-requisites:** 
 1. Python should be pre-installed in the PC 
