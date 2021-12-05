@@ -1,0 +1,26 @@
+electronics = ['electronics Engineering',
+               'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+               'electronics and communications engineering',
+               'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+               'electronics',
+               'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+               'No',
+               'Alright',
+               'Yes',
+               'To find out more details, check out <a href='https://universe.bits-pilani.ac.in/dubai/electricalandelectronics/DeptofElectricalandElectronicsEngg'>www.bits-pilani.ac.in/dubai/ece</a>']
+
+communications = ['communications Engineering',
+                  'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+                  'electronics and communications engineering',
+                  'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+                  'ece',
+                  'This programme is a broad field that encompasses many sub-fields that deal with electrical power generation, transmission, distribution, protection of power system components against faults or abnormalities, solid-state electronics & allied fields. Would you like to know more?',
+                  'communications',
+                  'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+                  'Communications and electronics engineering',
+                  'Electronics & Communication Engineering deals with the operating principles and design of devices ranging from mobile phone to wireless networks and satellite communication systems. This programme reflects the wide diversity of communication and data transmission technologies which are accepted as a vital part of everyday life. Would you like to know more?',
+                  'No',
+                  'Alright',
+                  'Yes',
+                  'To find out more details, check out <a href='https://universe.bits-pilani.ac.in/dubai/electricalandelectronics/DeptofElectricalandElectronicsEngg'>www.bits-pilani.ac.in/dubai/ece</a>']
+
