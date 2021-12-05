@@ -1,0 +1,38 @@
+The following methods have been used to create our ChatBot
+
+Chatterbot library 
+This is a Python library that is used to generate the automatic responses to an input query. It is based on Machine learning with an inbuilt conversational dialog flow and training engine. Here are some of the various machine learning techniques that are employed in the codebase for ChatBot.
+
+Search Algorithms (ML Technique in Chatterbot)
+-Search is a crucial part of how a chatbot quickly and efficiently retrieves the possible candidate statements that it can respond with. These are the attributes which help the chatbot select a response-
+
+> Similarity of an input statement to known statements
+>The frequency in which similar known responses occur
+> The likeliness of an i/p statement to fit into a category that known statements are a part of.	
+
+Classification Algorithms (ML Technique in Chatterbot)
+The logic adapters in Chatterbot use naive Bayesian classification to determine if an input statement meets a particular set of criteria that warrant a response to be generated from that logic adapter.
+
+Flask (Framework)
+Flask is a micro-web framework that allows us to build web-applications. We use
+this framework for RESTful API development.
+
+Logic Adapters (imported from Chatterbot module)
+	
+BestMatch logic adapter
+Selects a response based on comparing the input statement to the known statements and finds the best match.
+
+StatementComparisonMethod (Levenshtein Distance)
+This technique decides what algorithm will be used to compare the two statements. In our code we have used the Levenshtein Distance to compute the similarity between two statements.
+
+ResponseSelection Method
+When we use multiple adapters to determine the correct output the Response Selection Method will be invoked to return the statement with the highest confidence value.
+
+Storage Adapter
+Provides an interface that allows our Chatterbot to be connected to different DBMS’s. In our chatbot we link it to SQLAlchemy.
+
+Training
+ChatterBot’s training process involves loading example dialog into the chat bot’s database. This either creates or builds upon the graph data structure that represents the sets of known statements and responses.
+
+Training via list data (Chatterbot.trainers.ListTrainer)
+Allows a chat bot to be trained using a list of strings where the list represents a conversation. We pass in a list of statements where the order of each statement is based on its placement in a given conversation.
