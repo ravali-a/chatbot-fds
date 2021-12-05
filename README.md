@@ -1,2 +1,3 @@
 # chatbot-fds
-Chatbout using Chatterbot and python
+This code is a practical implementation of a Chatbot created using the Chatterbot module.
+
