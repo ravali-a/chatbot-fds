@@ -1,5 +1,6 @@
 # chatbot-fds
-This code is a practical implementation of a Chatbot created using the Chatterbot module.
+This code is a practical implementation of a Chatbot created using the Chatterbot module.  
+Created by: Afraa Noureen and Ravali Attivilli
 
 ## **Pre-requisites:** 
 1. Python should be pre-installed in the PC 
@@ -41,13 +42,12 @@ This should be your output:
 ```
 
 
-Click on the link http://127.0.0.1:5000/
-
+Click on the link http://127.0.0.1:5000/  
 **You can now interact with the chatbot present in the browser window.**
 
-_Supervisor_
-_Dr. Siddhaling Urolagin,_
-_PhD, Post-Doc, (Machine Learning),_
-_dr.siddhaling@gmail.com,_
-_www.github.com/siddhaling_
+_Supervisor_  
+_Dr. Siddhaling Urolagin,_  
+_PhD, Post-Doc, (Machine Learning),_  
+_dr.siddhaling@gmail.com,_  
+_www.github.com/siddhaling_  
 _www.researchreader.com_
