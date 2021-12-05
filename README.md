@@ -2,10 +2,10 @@
 This code is a practical implementation of a Chatbot created using the Chatterbot module.
 
 ## **Pre-requisites:** 
-- Python should be pre-installed in the PC 
-- pip should be installed in the terminal
-- Install chatterbot, chatterbot-corpus , flask and SQLAlchemy, nltk
-- An IDE/terminal to run the code
+1. Python should be pre-installed in the PC 
+2. pip should be installed in the terminal
+3. Install chatterbot, chatterbot-corpus , flask and SQLAlchemy, nltk
+4. An IDE/terminal to run the code
 
 ## **Commands to download the pre-requisites:**
 
@@ -42,7 +42,8 @@ This should be your output:
 
 
 Click on the link http://127.0.0.1:5000/
-You can now interact with the chatbot present in the browser window.
+
+**You can now interact with the chatbot present in the browser window.**
 
 _Supervisor_
 _Dr. Siddhaling Urolagin,_
