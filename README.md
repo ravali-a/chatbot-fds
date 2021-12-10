@@ -26,10 +26,10 @@ This code is a practical implementation of a Chatbot created using the Chatterbo
 3. Change the path for the variable “dirname” in chatbot_train.py to that of your directory where all your files are located.
 
 ## **Running the code:**
-In the terminal window present in your IDE/your PC terminal change the directory to the one where all your files are stored.
-Run > python chatbot_train.py in your terminal
-Let your chatbot get trained, once trained successfully.
-Run > python app.py in your terminal 
+In the terminal window present in your IDE/your PC terminal change the directory to the one where all your files are stored. 
+Run > python chatbot_train.py in your terminal. 
+Let your chatbot get trained, once trained successfully. 
+Run > python app.py in your terminal  
 This should be your output:
 
 ```
