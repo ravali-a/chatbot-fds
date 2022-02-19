@@ -44,10 +44,3 @@ This should be your output:
 
 Click on the link http://127.0.0.1:5000/  
 **You can now interact with the chatbot present in the browser window.**
-
-_Supervisor_  
-_Dr. Siddhaling Urolagin,_  
-_PhD, Post-Doc, (Machine Learning),_  
-_dr.siddhaling@gmail.com,_  
-_www.github.com/siddhaling_  
-_www.researchreader.com_
